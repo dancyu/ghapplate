@@ -18,6 +18,9 @@ Open http://webapplate.github.io/ghapplate to see the basic looks and feel.
 
 Go to https://github.com/webapplate/ghapplate, click 'fork' button to fork the template to your repository.
 
+## How to see ghapplate
+Go to https://github.com/dancyu/ghapplate/
+
 ## How to create multiple forks of a GitHub repo?
 
 Check the [guide](https://adrianshort.org/create-multiple-forks-of-a-github-repo/).
@@ -29,3 +32,4 @@ Learn more from [webapplate document](https://github.com/webapplate/webapplate/w
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
+
